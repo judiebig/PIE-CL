@@ -10,7 +10,7 @@ This repo provides a reference implementation of **PIE-CL** as described in the 
 
 > Improving Session-based Recommendation with Constrastive Learning (PIE-CL: Positon-aware Importance Extraction with Contrastive Learning)
 
-> Submitted for review  
+> Accepted by "User-modeling and User-adapted Interaction", 2022.
 
 ## Contact
 
